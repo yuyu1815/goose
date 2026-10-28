@@ -536,7 +536,7 @@ python test/run_tests.py
 python samples/run_samples.py
 ```
 
-For editing, the [VS Code extension](vscode/README.md) gives syntax
+For editing, the [VS Code extension](vscode/README.md) ([日本語の導入案内](vscode/README.ja.md)) gives syntax
 highlighting, the compiler's language server (`goose lsp`: errors as you
 type, hover, go to definition, completion, rename, symbols) and one-key runs
 through the JIT:
